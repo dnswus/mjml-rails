@@ -18,9 +18,6 @@ module Mjml
       result = run
       remove_tmp_files
       result
-    rescue
-
-      ""
     end
 
     # Exec mjml command
